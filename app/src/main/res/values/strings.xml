@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAPS JOHAN</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="no_location_data_provided">hola mundo</string>
+    <string name="no_address_found" />
+    <string name="address_found" />
+    <string name="service_not_available" />
+    <string name="invalid_lat_long_used" />
+</resources>
